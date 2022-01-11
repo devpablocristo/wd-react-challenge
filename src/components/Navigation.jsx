@@ -8,7 +8,7 @@ const Navigation = ({ openList, toggleCart }) => {
           src="https://akshatbookstore.netlify.app/static/media/circles.9d8761b5.png"
           alt="logo"
         />
-        <p>Hey bro!</p>
+        <p>Welcome to the WD Bookstore App!</p>
       </div>
       <button onClick={toggleCart}>
         {openList ? "Go back to Bookstore" : "Cart"}
