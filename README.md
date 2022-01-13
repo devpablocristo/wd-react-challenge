@@ -1,6 +1,6 @@
 # Welcome to the WeDevelop React challenge 🚀
 
-To run config and run the project:
+To config and run the project:
 
 ```console
 foo@bar:~$ npm install
